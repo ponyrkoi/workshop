@@ -1,0 +1,23 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponyrkoi/workshop.git"
+  },
+  "author": "ponyrko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ponyrkoi/workshop/issues"
+  },
+  "homepage": "https://github.com/ponyrkoi/workshop#readme",
+  "dependencies": {
+    "botbuilder": "^3.15.0",
+    "restify": "^7.3.0"
+  }
+}
